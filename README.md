@@ -1,4 +1,4 @@
-#Fake News Prediction
+##Fake News Prediction
 This repository contains a Jupyter Notebook implementing a Fake News Prediction model, leveraging machine learning techniques to classify news articles as real or fake. The notebook walks through data preprocessing, feature extraction, model training, and evaluation.
 
 #Project Overview
